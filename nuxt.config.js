@@ -14,6 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Material+Icons' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
