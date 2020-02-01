@@ -1,6 +1,6 @@
-# quile-web-application
+# asistensi_webapp
 
-> quile web front-end application
+> My exceptional Nuxt.js project
 
 ## Build Setup
 
